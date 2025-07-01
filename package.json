@@ -7,7 +7,6 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
-    
   },
   "keywords": [
     "express",
@@ -16,6 +15,7 @@
   "author": "shujahat jadoon",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.0.1",
     "express": "^5.1.0"
   },
   "devDependencies": {
